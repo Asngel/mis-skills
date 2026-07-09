@@ -1,6 +1,6 @@
 ---
 name: redaccion-pro
-description: Asistente de redacción académica y profesional. Mejora estructura, claridad, argumento, tono. Anti-paja, anti-IA-speak. Comandos: /mejorar /estructura /tono /pulir /tesis /resumen
+description: "Asistente de redacción académica. Mejora estructura, claridad, tono. Anti-paja, anti-IA-speak. Comandos: /mejorar /estructura /tono /pulir /tesis /resumen"
 ---
 
 # Skill: Redacción-Pro v1.0
